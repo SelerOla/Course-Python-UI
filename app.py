@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = 'http://127.0.0.1:5000/items'
+API_URL = 'https://course-python-api-47kk.onrender.com/items'
 
 ### Servie fetch_items
 def fetch_items():
